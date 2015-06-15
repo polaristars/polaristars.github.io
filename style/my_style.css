@@ -59,6 +59,9 @@ nav
 	margin-left: auto;
 	margin-right: auto;
 }
+.deplacer {
+	
+}
 #nom
 {
 	color: #737373;
@@ -358,7 +361,7 @@ h4
 	width: 28%;
 	margin-top: 10%;
 	margin-bottom: 5%;
-	margin-right: -21%;
+	margin-right: -23%;
 	font-family: Times;
 	font-size: 2.5em;
 	display: block;
@@ -370,7 +373,7 @@ strong
 #logo
 {
 	width: 70%;
-	padding-top: 10%
+	padding-top: 4%
 }
 #logo #css
 {
@@ -446,11 +449,11 @@ strong
 {
 	color: #FFF;
 	font-style: italic;
-	font-size: 2em;
+	font-size: 1.8em;
 	float: right;
-	margin-right: 3%;
+	margin-right: 0%;
 	text-align: center;
-	margin-top: 2%;
+	margin-top: 5%;
 	font-family: Times;
 	display: block;
 }
@@ -1326,7 +1329,7 @@ footer
 	width: 28%;
 	margin-top: -17%;
 	margin-bottom: 5%;
-	margin-right: 2%;
+	margin-right: 0%;
 	font-family: Times;
 	font-size: 2.5em;
 	display: block;
