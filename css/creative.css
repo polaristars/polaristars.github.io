@@ -52,8 +52,10 @@ p {
 }
 #moa {
     border-radius: 600px;
-    width: 40%;
+    width: 44%;
     margin-top: 3%;
+    border: 10px solid white;
+    margin-left: 23%;
 }
 #profil {
   border-radius: 600px;
@@ -68,8 +70,20 @@ p {
 #deux {
     margin-top: -45%;
 }
+#tweet {
+    margin-top: -41%;
+}
+#paint {
+    margin-top: -41%;
+}
+#snap {
+    margin-top: -125%;
+}
 #mapv1 {
     margin-top: -45%;
+}
+#po {
+    margin-top: -126%;
 }
 .bg-primary {
     background-color: pink;
@@ -81,7 +95,8 @@ p {
 }
 
 .text-faded {
-    color: red;
+    color: white;
+    font-weight: bold;
 }
 
 section {
