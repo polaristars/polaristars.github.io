@@ -59,6 +59,18 @@ p {
   border-radius: 600px;
   width: 20%;
 }
+#meetic {
+    margin-top: -45%;
+}
+#cinema {
+    margin-top: -45%;
+}
+#deux {
+    margin-top: -45%;
+}
+#mapv1 {
+    margin-top: -45%;
+}
 .bg-primary {
     background-color: pink;
 }
